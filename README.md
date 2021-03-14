@@ -28,4 +28,4 @@ Additional Information
 | Discord:          | https://discord.gg/TnYASnMmFm                              |
 | Website:          | https://wowhellgarve.com                                   |
 |-------------------|:-----------------------------------------------------------|
-| Realmlist:        | SET portal l2hellgarve.ddns.net                   
+| Realmlist:        | SET portal "play.wowhellgarve.com"              
